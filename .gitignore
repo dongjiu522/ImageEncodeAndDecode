@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+./out
+./data
+__pycache__
+./.idea
+./bmp/*.bmp
 
 # Distribution / packaging
 .Python
